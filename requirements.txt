@@ -27,7 +27,7 @@ charset-normalizer==3.1.0
 
 cloudscraper==1.2.69
 
-idna==3.4
+idna==3.7
 
 pyaes==1.6.1
 
